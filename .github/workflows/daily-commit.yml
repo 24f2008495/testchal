@@ -37,3 +37,6 @@ jobs:
         
         # Push the commit
         git push 
+
+permissions:
+  contents: write 
